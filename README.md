@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with **x**
 
-- 👨‍💻 All of my projects are available at [ilijxp.github.io](ilijxp.github.io)
+- 👨‍💻 All of my projects are available at [https://ilijxp.github.io](https://ilijxp.github.io)
 
 - 📝 I regularly write articles on [https://discord.gg/4FKrGDEWjM](https://discord.gg/4FKrGDEWjM)
 
