@@ -2,13 +2,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ilijxp&label=Profile%20views&color=0e75b6&style=flat" alt="ilijxp" /> </p>
 
-- 🔭 I’m currently working on [joetravel](https://github.com/ilijxp/joetravel)
-
 - 🌱 I’m currently learning **JavaScript**
 
 - 👯 I’m looking to collaborate on **x**
-
-- 🤝 I’m looking for help with **x**
 
 - 👨‍💻 All of my projects are available at [https://ilijxp.github.io](https://ilijxp.github.io)
 
